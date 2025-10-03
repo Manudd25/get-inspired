@@ -19,3 +19,6 @@ A simple web app that delivers a random inspirational quote each time you visit 
   - Static frontend: Azure Storage Static Website
   - Dynamic backend: Azure App Service (Linux)
 - **Deployment**: Manual FTP for backend, Azure Portal upload for frontend
+
+<img width="1470" height="913" alt="Screenshot 2025-10-03 at 15 34 15" src="https://github.com/user-attachments/assets/4290bec7-283c-4d1d-a48e-0fe632a707a9" />
+
